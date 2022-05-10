@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games
 - 🌱 I’m currently learning CPP at Seneca College
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via email hoangnguyenduy7@gmail.com
+- 📫 Reach me via email hoangnguyenduy7@gmail.com
 
 <!---
 HenryNDH/HenryNDH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
