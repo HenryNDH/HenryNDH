@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HenryNDH
 - 👀 I’m interested in video games
-- 🌱 I’m currently learning CPP at Seneca College
+- 🌱 I’m currently learning BSD at Seneca College
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me via email hoangnguyenduy7@gmail.com
 
