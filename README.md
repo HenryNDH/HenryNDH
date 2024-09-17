@@ -42,5 +42,5 @@ Thank you for visiting my profile! Feel free to reach out if you’d like to con
 
 ---
 
-**[Your Name]**  
-[Your Email] | [Your LinkedIn] | [Your Twitter] | [Your Website]
+**Henry Nguyen**  
+hoangnguyenduy7@gmail.com | henryndh |
