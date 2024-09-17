@@ -28,8 +28,8 @@ Feel free to check out more of my work in the [Repositories](https://github.com/
 
 ## Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/henryndh/))
-- [Instagram]([https://twitter.com/yourprofile](https://www.instagram.com/henrine.png/))
+- [LinkedIn](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/henryndh/))
+- [Instagram](https://twitter.com/yourprofile](https://www.instagram.com/henrine.png/))
 - [Personal Website/Blog](https://yourwebsite.com)
 
 ## Contributions
