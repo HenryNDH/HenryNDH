@@ -2,27 +2,25 @@
 
 ## Hello! 👋
 
-I'm [Your Name], a [Your Profession or Title] passionate about [briefly describe your areas of interest, such as software development, open-source contributions, data science, etc.]. Welcome to my GitHub profile where you can explore my projects, contributions, and repositories.
+I'm Henry, a student who is passionate about web dev. Welcome to my GitHub profile where you can explore my projects, contributions, and repositories.
 
 ## About Me
 
-- **🔭 Currently working on**: [Briefly describe current projects or interests]
-- **🌱 Learning**: [Technologies or skills you're currently learning]
+- **🔭 Currently working on**: Bachelor Degree at Seneca
+- **🌱 Learning**: Android Dev
 - **👯 Looking to collaborate on**: [Type of projects or topics you're interested in collaborating on]
-- **🤔 I’m looking for help with**: [Any specific challenges or areas where you’re seeking advice]
-- **💬 Ask me about**: [Topics you are knowledgeable about and happy to discuss]
-- **📫 How to reach me**: [Your preferred contact method, e.g., email or social media]
-- **⚡ Fun fact**: [A fun or interesting fact about yourself]
+- **🤔 I’m looking for help with**: React
+- **💬 Ask me about**: JS, C++, Python
+- **📫 How to reach me**: hoangnguyenduy7@gmail.com
+- **⚡ Fun fact**: I also a photographer
 
 ## My Projects
 
 Here are some of my notable projects:
 
-- **[Project Name 1]**: [Brief description and link]
-- **[Project Name 2]**: [Brief description and link]
-- **[Project Name 3]**: [Brief description and link]
+- **Lunar Calendar**: This app will collect data from user to note down their lunar event dates and convert it to solar cal so that they can make plan for their future this year
 
-Feel free to check out more of my work in the [Repositories](https://github.com/yourusername?tab=repositories) section.
+Feel free to check out more of my work in the [Repositories](https://github.com/henryndh?tab=repositories) section.
 
 ## GitHub Stats
 
