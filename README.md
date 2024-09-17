@@ -43,4 +43,4 @@ Thank you for visiting my profile! Feel free to reach out if you’d like to con
 ---
 
 **Henry Nguyen**  
-hoangnguyenduy7@gmail.com | henryndh |
+hoangnguyenduy7@gmail.com | @henrinee |
