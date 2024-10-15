@@ -8,7 +8,7 @@ I'm Henry, a student who is passionate about web dev. Welcome to my GitHub profi
 
 - **🔭 Currently working on**: Bachelor Degree at Seneca
 - **🌱 Learning**: Android Dev
-- **👯 Looking to collaborate on**: [Type of projects or topics you're interested in collaborating on]
+- **👯 Looking to collaborate on**: Web or Android Project
 - **🤔 I’m looking for help with**: React
 - **💬 Ask me about**: JS, C++, Python
 - **📫 How to reach me**: hoangnguyenduy7@gmail.com
