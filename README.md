@@ -32,12 +32,6 @@ Feel free to check out more of my work in the [Repositories](https://github.com/
 - [LinkedIn](https://www.linkedin.com/in/henry-nguyen-134221202/)
 - [Instagram](https://www.instagram.com/henrine.png/)
 
-## Contributions
-
-I actively contribute to several open-source projects. Here are a few highlights:
-
-- **[Contribution 1]**: [Brief description and link]
-- **[Contribution 2]**: [Brief description and link]
 
 Thank you for visiting my profile! Feel free to reach out if you’d like to connect or collaborate.
 
