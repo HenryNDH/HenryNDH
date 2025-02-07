@@ -2,7 +2,7 @@
 
 ## Hello! 👋
 
-I'm **Henry Nguyen**, a software developer passionate about web and Android development. Welcome to my GitHub profile where you can explore my projects, contributions, and repositories.
+I'm **Henry Nguyen**, a software developer passionate about Web and Android development. Welcome to my GitHub profile where you can explore my projects, contributions, and repositories.
 
 ## About Me
 
